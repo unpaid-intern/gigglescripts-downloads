@@ -1,2 +1,1 @@
-take a look here (image is a link lol)
-[![Watch the demo](https://img.youtube.com/vi/I5FDVX0PuX4/maxresdefault.jpg)](https://www.youtube.com/watch?v=I5FDVX0PuX4)
+[Click here for a guide on how to use it](https://youtu.be/hYQ4Tfmy7bw?si=ATQQQlQ015YUpa4t)
